@@ -1,0 +1,4 @@
+
+OCCPHT04 Day 2
+Git and Github lesson
+This is a sample repository
